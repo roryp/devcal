@@ -65,6 +65,17 @@ The original version of Minecraft! Java Edition has cross-platform play between 
 
 For building and deploying Java projects, Azure always had great Maven support, but it was lacking Gradle support. As many people love Gradle, in particular when building complex projects, we have a new set of Gradle plugins that are available! Use Gradle to deploy your Java apps to Azure App Service or Azure funtions! You can package a Java Functions/Webapp project, run it locally or deploy it to Azure with tasks provided by this plugin. [Try them now](https://github.com/microsoft/azure-gradle-plugins)
 
+📆 **Microsoft at Spring One**
+
+September, 1 - 3 2021, 3 PM–12 AM CEST SpringOne is happening and Microsoft employees will cover more than 6 hours of sessions to highlight our strong partnership with VMware for Spring Developers all over the world.
+
+* [From Zero to Spring Boot Hero with GitHub Codespaces](https://springone.io/2021/sessions/from-zero-to-spring-boot-hero-with-github-codespaces)
+* [Accelerate Spring Apps to Cloud at Scale—Discussion with Azure Spring Cloud Customers](https://springone.io/2021/sessions/accelerate-spring-apps-to-cloud-at-scale-discussion-with-azure-spring-cloud-customers)
+* [Rapid Development with Azure Spring Cloud](https://springone.io/2021/sessions/rapid-development-with-azure-spring-cloud)
+* [Transporting Data at Warp Speed: How to Connect Spring Boot Apps Quickly, Powerfully, and Painlessly](https://springone.io/2021/sessions/transporting-data-at-warp-speed)
+[Bootiful Spring Tooling for the Masses](https://springone.io/2021/sessions/spring-tools-4-bootiful-spring-tooling-for-the-masses)
+[Getting Hands-On with Azure Spring Cloud](https://springone.io/2021/workshops/instructorled/microsoft)
+
 ---
 
 :bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/en-us/Newsletter/?ocid=AID3034986)*
