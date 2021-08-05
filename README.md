@@ -12,6 +12,10 @@ Catch up on our big launches, what’s new in Java on Azure, developer Q&A—and
 
 Microsoft recently announced the preview of the Microsoft Build of OpenJDK, a new no-cost Long-Term Support (LTS) distribution of OpenJDK that is open source and available for free for anyone to deploy anywhere. In this show we'll share highlights from this release and more, plus updates to VScode, Java and Azure Spring Cloud tooling. [Watch now]( https://channel9.msdn.com/Shows/The-Launch-Space/The-Microsoft-Build-of-OpenJDK-and-other-useful-Java-things)
 
+:cinema:**JBoss on Azure App Service is now GA**
+
+JBoss Enterprise Application Platform (EAP) on Azure App Service is now generally available. In this session you'll see how to deploy Web Application Archive (WAR) and Enterprise Application Archive (EAR) Java applications to JBOSS EAP using Azure App Service's deployment API's, or CI/CD integration. We'll also share details on the latest Maven plugin for Azure Web Apps. [Watch now]( https://channel9.msdn.com/Shows/The-Launch-Space/JBoss-on-Azure-App-Service-is-now-GA)
+
 :scroll:**Java Learning Path**
 
 Start here and learn how you can build, migrate and scale Java applications on Azure using Azure services. Use tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform and more. [Start now](https://docs.microsoft.com/en-gb/learn/paths/java-on-azure/?WT.mc_id=java-00000-ropreddy)
