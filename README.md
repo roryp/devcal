@@ -22,7 +22,7 @@ Start here and learn how you can build, migrate and scale Java applications on A
 
 :scroll: **Azure Spring Cloud workshop**
 
-Azure Spring Cloud (ASC) is a managed service to run Spring Boot microservices, jointly created and supported by Microsoft and Pivotal. This workshop  is aimed at making you get started using Azure Spring Cloud in 30 minutes, providing you the key concepts and tools. [Start now](https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/)
+Azure Spring Cloud (ASC) is a managed service to run Spring Boot microservices, jointly created and supported by Microsoft and Pivotal. This workshop  is aimed at making you get started using Azure Spring Cloud in 30 minutes, providing you the key concepts and tools. [Start now](https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/?WT.mc_id=java-00000-ropreddy)
 
 :scroll: **Getting Started with Java in VS Code**
 
@@ -35,7 +35,7 @@ This Github repo hosts libraries that allow seamless Spring integration with Azu
 
 :scroll: **Java-to-Azure migration docs**
 
-Read about recommended strategies for migrating Java applications to Azure. The documentation covers general migration and specific workloads including Spring, Tomcat, WebLogic, WildFly, WebSphere and JBoss EAP. [Browse the documentation](https://docs.microsoft.com/azure/developer/java/migration/)
+Read about recommended strategies for migrating Java applications to Azure. The documentation covers general migration and specific workloads including Spring, Tomcat, WebLogic, WildFly, WebSphere and JBoss EAP. [Browse the documentation](https://docs.microsoft.com/azure/developer/java/migration/?WT.mc_id=java-00000-ropreddy)
 
 :scroll: **Be more productive with the latest Azure Java SDKs**
 
