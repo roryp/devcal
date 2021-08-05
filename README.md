@@ -61,6 +61,12 @@ Let's discuss what's happing in the Java on Azure Ecosystem! We have interviews 
 
 [Watch now](https://www.youtube.com/c/JavaonAzure/playlists)
 
+:scroll:**The Java on Azure Twitter Channel**
+
+Java at Microsoft spans from Azure to Minecraft, across SQL Server to Visual Studio Code, and beyond! We use more Java than one can imagine. Subscribe to the latest tweets from Java at Microsoft (@JavaAtMicrosoft)
+
+[Follow now](https://twitter.com/JavaAtMicrosoft)
+
 ---
 
 :bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/en-us/Newsletter/?ocid=AID3034986)*
