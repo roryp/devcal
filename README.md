@@ -22,9 +22,7 @@ Start here and learn how you can build, migrate and scale Java applications on A
 
 :scroll:**Azure Spring Cloud workshop**
 
-Azure Spring Cloud (ASC) is a managed service to run Spring Boot microservices, jointly created and supported by Microsoft and Pivotal. This workshop  is aimed at making you get started using Azure Spring Cloud in 30 minutes, providing you the key concepts and tools.
-
-[Start now](https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/)
+Azure Spring Cloud (ASC) is a managed service to run Spring Boot microservices, jointly created and supported by Microsoft and Pivotal. This workshop  is aimed at making you get started using Azure Spring Cloud in 30 minutes, providing you the key concepts and tools. [Start now](https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/)
 
 :scroll:**Getting Started with Java in VS Code**
 
@@ -41,37 +39,27 @@ Read about recommended strategies for migrating Java applications to Azure. The 
 
 :scroll:**Be more productive with the latest Azure Java SDKs**
 
-Kick-start your cloud-enabled Java apps using the latest unified SDKs. Streamline your cloud development with features such as HTTP retries, logging, and transport and authentication protocols.
-
-[Download the SDKs](https://azure.github.io/azure-sdk/releases/latest/index.html#java)
+Kick-start your cloud-enabled Java apps using the latest unified SDKs. Streamline your cloud development with features such as HTTP retries, logging, and transport and authentication protocols. [Download the SDKs](https://azure.github.io/azure-sdk/releases/latest/index.html#java)
 
 :scroll:**Migrate Java EE App to Azure workshop**
 
-In this hands on training, you'll migrate a Java EE application to App Service Linux , integrate with GitHub actions and connect the application's data to Azure Database for PostgreSQL, MySQL and or SQL Database.
-
-[Browse now](https://github.com/Azure-Samples/migrate-javaee-app-to-azure-training)
+In this hands on training, you'll migrate a Java EE application to App Service Linux , integrate with GitHub actions and connect the application's data to Azure Database for PostgreSQL, MySQL and or SQL Database. [Browse now](https://github.com/Azure-Samples/migrate-javaee-app-to-azure-training)
 
 :cinema:**Kroger shares how they Migrated their stock management Java application to Azure at Microsoft Build.**
 
-Doug Wilson Sr Director of Software Engineering from Kroger, joins Customer Tech Talks at Microsoft Build. To share how Kroger migrated their on-premises Java application to Azure to scale their stock management process across their US based stores. Learn how they planned and executed their migration, and how Java on Azure continues to drive great experiences for their customers.
+Doug Wilson Sr Director of Software Engineering from Kroger, joins Customer Tech Talks at Microsoft Build. To share how Kroger migrated their on-premises Java application to Azure to scale their stock management process across their US based stores. Learn how they planned and executed their migration, and how Java on Azure continues to drive great experiences for their customers. [Watch it now](https://techcommunity.microsoft.com/t5/video-hub/kroger-shares-how-they-migrated-their-stock-management-java/m-p/2436903)
 
 :cinema:**The Java on Azure Youtube Channel**
 
-Let's discuss what's happing in the Java on Azure Ecosystem! We have interviews with Java Champions, tutorials and conference sessions. And you might even find some live coding here. Subscribe now and stay in touch!
-
-[Watch now](https://www.youtube.com/c/JavaonAzure/playlists)
+Let's discuss what's happing in the Java on Azure Ecosystem! We have interviews with Java Champions, tutorials and conference sessions. And you might even find some live coding here. Subscribe now and stay in touch! [Watch now](https://www.youtube.com/c/JavaonAzure/playlists)
 
 :scroll:**The Java on Azure Twitter Channel**
 
-Java at Microsoft spans from Azure to Minecraft, across SQL Server to Visual Studio Code, and beyond! We use more Java than one can imagine. Subscribe to the latest tweets from Java at Microsoft (@JavaAtMicrosoft)
-
-[Follow now](https://twitter.com/JavaAtMicrosoft)
+Java at Microsoft spans from Azure to Minecraft, across SQL Server to Visual Studio Code, and beyond! We use more Java than one can imagine. Subscribe to the latest tweets from Java at Microsoft (@JavaAtMicrosoft) [Follow now](https://twitter.com/JavaAtMicrosoft)
 
 :scroll:**Have some fun with Minecraft Java Edition**
 
-The original version of Minecraft! Java Edition has cross-platform play between Windows, Linux and macOS, and also supports user-created skins and mods. Includes a decade’s worth of updates, with much more to come!
-
-[Get it now](https://www.minecraft.net/store/minecraft-java-edition)
+The original version of Minecraft! Java Edition has cross-platform play between Windows, Linux and macOS, and also supports user-created skins and mods. Includes a decade’s worth of updates, with much more to come! [Get it now](https://www.minecraft.net/store/minecraft-java-edition)
 
 ---
 
