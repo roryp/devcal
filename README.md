@@ -24,6 +24,11 @@ Start here and learn how you can build, migrate and scale Java applications on A
 
 This tutorial helps you set up Visual Studio Code for Java development quickly, via the Coding Pack for Java, and how to write, run and Debug Java applications on it. It also covers some advanced features like refactoring and Azure integration. [Start now](https://code.visualstudio.com/docs/java/java-tutorial)
 
+:scroll:**Azure Spring Boot client library for Java**
+
+This Github repo hosts libraries that allow seamless Spring integration with Azure services. Developers can now adopt a Spring-idiomatic way to take advantage of services on Azure, with only few lines of configuration and minimal code changes.
+. [Learn more](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/spring)
+
 :cinema:**Kroger shares how they Migrated their stock management Java application to Azure at Microsoft Build.**
 
 Doug Wilson Sr Director of Software Engineering from Kroger, joins Customer Tech Talks at Microsoft Build. To share how Kroger migrated their on-premises Java application to Azure to scale their stock management process across their US based stores. Learn how they planned and executed their migration, and how Java on Azure continues to drive great experiences for their customers.
