@@ -63,9 +63,7 @@ The original version of Minecraft! Java Edition has cross-platform play between 
 
 :scroll: **Full Gradle support to deploy your Java App to Azure**
 
-For building and deploying Java projects, Azure always had great Maven support, but it was lacking Gradle support. As many people love Gradle, in particular when building complex projects, we have a new set of Gradle plugins that are available! Use Gradle to deploy your Java apps to Azure App Service or Azure funtions! You can package a Java Functions/Webapp project, run it locally or deploy it to Azure with tasks provided by this plugin.
-
- [Try them now](https://github.com/microsoft/azure-gradle-plugins)
+For building and deploying Java projects, Azure always had great Maven support, but it was lacking Gradle support. As many people love Gradle, in particular when building complex projects, we have a new set of Gradle plugins that are available! Use Gradle to deploy your Java apps to Azure App Service or Azure funtions! You can package a Java Functions/Webapp project, run it locally or deploy it to Azure with tasks provided by this plugin. [Try them now](https://github.com/microsoft/azure-gradle-plugins)
 
 ---
 
