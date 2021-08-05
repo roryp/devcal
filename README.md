@@ -39,7 +39,7 @@ Read about recommended strategies for migrating Java applications to Azure. The 
 
 :scroll: **Be more productive with the latest Azure Java SDKs**
 
-Kick-start your cloud-enabled Java apps using the latest unified SDKs. Streamline your cloud development with features such as HTTP retries, logging, and transport and authentication protocols. [Download the SDKs](https://azure.github.io/azure-sdk/releases/latest/index.html#java)
+Kick-start your cloud-enabled Java apps using the latest unified SDKs. Streamline your cloud development with features such as HTTP retries, logging, and transport and authentication protocols. These open-source Azure SDK's for Java simplify provisioning, managing, and using Azure resources from Java application code. [Download the SDKs](https://azure.github.io/azure-sdk/releases/latest/index.html#java)
 
 :scroll: **Migrate Java EE App to Azure workshop**
 
