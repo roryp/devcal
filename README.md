@@ -45,6 +45,12 @@ Kick-start your cloud-enabled Java apps using the latest unified SDKs. Streamlin
 
 [Download the SDKs](https://azure.github.io/azure-sdk/releases/latest/index.html#java)
 
+:scroll:**Migrate Java EE App to Azure workshop**
+
+In this hands on training, you'll migrate a Java EE application to App Service Linux , integrate with GitHub actions and connect the application's data to Azure Database for PostgreSQL, MySQL and or SQL Database.
+
+[Browse now](https://github.com/Azure-Samples/migrate-javaee-app-to-azure-training)
+
 :cinema:**Kroger shares how they Migrated their stock management Java application to Azure at Microsoft Build.**
 
 Doug Wilson Sr Director of Software Engineering from Kroger, joins Customer Tech Talks at Microsoft Build. To share how Kroger migrated their on-premises Java application to Azure to scale their stock management process across their US based stores. Learn how they planned and executed their migration, and how Java on Azure continues to drive great experiences for their customers.
