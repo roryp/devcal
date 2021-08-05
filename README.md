@@ -29,11 +29,25 @@ This tutorial helps you set up Visual Studio Code for Java development quickly, 
 This Github repo hosts libraries that allow seamless Spring integration with Azure services. Developers can now adopt a Spring-idiomatic way to take advantage of services on Azure, with only few lines of configuration and minimal code changes.
 . [Learn more](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/spring)
 
+:scroll:**Java-to-Azure migration docs**
+
+Read about recommended strategies for migrating Java applications to Azure. The documentation covers general migration and specific workloads including Spring, Tomcat, WebLogic, WildFly, WebSphere and JBoss EAP. [Browse the documentation](https://docs.microsoft.com/azure/developer/java/migration/)
+
+:scroll:Be more productive with the latest Azure Java SDKs
+
+Kick-start your cloud-enabled Java apps using the latest unified SDKs. Streamline your cloud development with features such as HTTP retries, logging, and transport and authentication protocols.
+
+[Download the SDKs](https://azure.github.io/azure-sdk/releases/latest/index.html#java)
+
 :cinema:**Kroger shares how they Migrated their stock management Java application to Azure at Microsoft Build.**
 
 Doug Wilson Sr Director of Software Engineering from Kroger, joins Customer Tech Talks at Microsoft Build. To share how Kroger migrated their on-premises Java application to Azure to scale their stock management process across their US based stores. Learn how they planned and executed their migration, and how Java on Azure continues to drive great experiences for their customers.
 
-[Watch now](https://techcommunity.microsoft.com/t5/video-hub/kroger-shares-how-they-migrated-their-stock-management-java/m-p/2436903)
+:cinema:**The Java on Azure Youtube Channel**
+
+Let's discuss what's happing in the Java on Azure Ecosystem! We have interviews with Java Champions, tutorials and conference sessions. And you might even find some live coding here. Subscribe now and stay in touch!
+
+[Watch now](https://www.youtube.com/c/JavaonAzure/playlists)
 
 ---
 
