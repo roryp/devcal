@@ -20,6 +20,12 @@ JBoss Enterprise Application Platform (EAP) on Azure App Service is now generall
 
 Start here and learn how you can build, migrate and scale Java applications on Azure using Azure services. Use tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform and more. [Start now](https://docs.microsoft.com/learn/paths/java-on-azure/?WT.mc_id=java-00000-ropreddy)
 
+:scroll:**Azure Spring Cloud workshop**
+
+Azure Spring Cloud (ASC) is a managed service to run Spring Boot microservices, jointly created and supported by Microsoft and Pivotal. This workshop  is aimed at making you get started using Azure Spring Cloud in 30 minutes, providing you the key concepts and tools.
+
+[Start now](https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/)
+
 :scroll:**Getting Started with Java in VS Code**
 
 This tutorial helps you set up Visual Studio Code for Java development quickly, via the Coding Pack for Java, and how to write, run and Debug Java applications on it. It also covers some advanced features like refactoring and Azure integration. [Start now](https://code.visualstudio.com/docs/java/java-tutorial)
