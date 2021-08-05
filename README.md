@@ -67,6 +67,12 @@ Java at Microsoft spans from Azure to Minecraft, across SQL Server to Visual Stu
 
 [Follow now](https://twitter.com/JavaAtMicrosoft)
 
+:scroll:**Have some fun with Minecraft Java Edition**
+
+The original version of Minecraft! Java Edition has cross-platform play between Windows, Linux and macOS, and also supports user-created skins and mods. Includes a decade’s worth of updates, with much more to come!
+
+[Get it now](https://www.minecraft.net/store/minecraft-java-edition)
+
 ---
 
 :bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/en-us/Newsletter/?ocid=AID3034986)*
