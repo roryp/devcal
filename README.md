@@ -18,7 +18,11 @@ JBoss Enterprise Application Platform (EAP) on Azure App Service is now generall
 
 :scroll:**Java Learning Path**
 
-Start here and learn how you can build, migrate and scale Java applications on Azure using Azure services. Use tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform and more. [Start now](https://docs.microsoft.com/en-gb/learn/paths/java-on-azure/?WT.mc_id=java-00000-ropreddy)
+Start here and learn how you can build, migrate and scale Java applications on Azure using Azure services. Use tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, IntelliJ, Eclipse, Jenkins, Terraform and more. [Start now](https://docs.microsoft.com/learn/paths/java-on-azure/?WT.mc_id=java-00000-ropreddy)
+
+:scroll:**Getting Started with Java in VS Code**
+
+This tutorial helps you set up Visual Studio Code for Java development quickly, via the Coding Pack for Java, and how to write, run and Debug Java applications on it. It also covers some advanced features like refactoring and Azure integration. [Start now](https://code.visualstudio.com/docs/java/java-tutorial)
 
 :cinema:**Kroger shares how they Migrated their stock management Java application to Azure at Microsoft Build.**
 
