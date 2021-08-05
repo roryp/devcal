@@ -53,7 +53,7 @@ Doug Wilson Sr Director of Software Engineering from Kroger, joins Customer Tech
 
 Let's discuss what's happing in the Java on Azure Ecosystem! We have interviews with Java Champions, tutorials and conference sessions. And you might even find some live coding here. Subscribe now and stay in touch! [Watch now](https://www.youtube.com/c/JavaonAzure/playlists)
 
-:scroll:** The Java on Azure Twitter Channel**
+:scroll: **The Java on Azure Twitter Channel**
 
 Java at Microsoft spans from Azure to Minecraft, across SQL Server to Visual Studio Code, and beyond! We use more Java than one can imagine. Subscribe to the latest tweets from Java at Microsoft (@JavaAtMicrosoft) [Follow now](https://twitter.com/JavaAtMicrosoft)
 
