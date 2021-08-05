@@ -33,7 +33,7 @@ This Github repo hosts libraries that allow seamless Spring integration with Azu
 
 Read about recommended strategies for migrating Java applications to Azure. The documentation covers general migration and specific workloads including Spring, Tomcat, WebLogic, WildFly, WebSphere and JBoss EAP. [Browse the documentation](https://docs.microsoft.com/azure/developer/java/migration/)
 
-:scroll:Be more productive with the latest Azure Java SDKs
+:scroll:**Be more productive with the latest Azure Java SDKs**
 
 Kick-start your cloud-enabled Java apps using the latest unified SDKs. Streamline your cloud development with features such as HTTP retries, logging, and transport and authentication protocols.
 
