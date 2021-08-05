@@ -65,7 +65,7 @@ The original version of Minecraft! Java Edition has cross-platform play between 
 
 For building and deploying Java projects, Azure always had great Maven support, but it was lacking Gradle support. As many people love Gradle, in particular when building complex projects, we have a new set of Gradle plugins that are available! Use Gradle to deploy your Java apps to Azure App Service or Azure funtions! You can package a Java Functions/Webapp project, run it locally or deploy it to Azure with tasks provided by this plugin. [Try them now](https://github.com/microsoft/azure-gradle-plugins)
 
-📆 **Microsoft at Spring One**
+📆 **Microsoft at SpringOne**
 
 September, 1 - 3 2021, 3 PM–12 AM CEST SpringOne is happening and Microsoft employees will cover more than 6 hours of sessions to highlight our strong partnership with VMware for Spring Developers all over the world.
 
@@ -75,6 +75,18 @@ September, 1 - 3 2021, 3 PM–12 AM CEST SpringOne is happening and Microsoft em
 * [Transporting Data at Warp Speed: How to Connect Spring Boot Apps Quickly, Powerfully, and Painlessly](https://springone.io/2021/sessions/transporting-data-at-warp-speed)
 [Bootiful Spring Tooling for the Masses](https://springone.io/2021/sessions/spring-tools-4-bootiful-spring-tooling-for-the-masses)
 [Getting Hands-On with Azure Spring Cloud](https://springone.io/2021/workshops/instructorled/microsoft)
+
+📆 **Microsoft at JCON**
+
+JCON-Online 2021, the International Online Community Conference, October 5 - 8, save the date, register and join us at one of our various sessions!
+
+* [Running your Java enterprise on Open Liberty on Azure Red Hat OpenShift](https://jcon.sched.com/event/kK4C/running-your-java-enterprise-on-open-liberty-on-azure-red-hat-openshift)
+* [Automate an idea to production using Spring Boot apps](https://jcon.sched.com/event/jzy4/automate-an-idea-to-production-using-spring-boot-apps)
+* [Programming for Accessibility](https://jcon.sched.com/event/kuM8/programming-for-accessibility)
+* [Effective Kubernetes for Jakarta EE and MicroProfile Developers](https://jcon.sched.com/event/k5dw/effective-kubernetes-for-jakarta-ee-and-microprofile-developers)
+* [A Freakonomic Take on Open Standards and Jakarta EE](https://jcon.sched.com/event/jwVc/a-freakonomic-take-on-open-standards-and-jakarta-ee)
+* [How Microsoft Learned to Love Java](https://jcon.sched.com/event/jzyz/how-microsoft-learned-to-love-java)
+
 
 ---
 
